@@ -165,6 +165,11 @@ footer {
   padding: 1rem;
 }
 
+footer p a{
+  color:#fff;
+  text-decoration:none;
+}
+
 /* media queries */
 @media (max-width: 700px) {
   .top-container {
